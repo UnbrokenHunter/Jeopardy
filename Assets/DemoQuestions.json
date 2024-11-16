@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Math - 100",
+    "Prompt": "What is the value of π (pi) to two decimal places?",
+    "Answer": "3.14",
+    "Catagory": "Math",
+    "Points": 100
+  },
+  {
+    "Title": "Math - 200",
+    "Prompt": "What is 12 squared?",
+    "Answer": "144",
+    "Catagory": "Math",
+    "Points": 200
+  },
+  {
+    "Title": "Math - 300",
+    "Prompt": "Solve: 3x + 7 = 22. What is x?",
+    "Answer": "5",
+    "Catagory": "Math",
+    "Points": 300
+  },
+  {
+    "Title": "Math - 400",
+    "Prompt": "What is the derivative of x^2?",
+    "Answer": "2x",
+    "Catagory": "Math",
+    "Points": 400
+  },
+  {
+    "Title": "Math - 500",
+    "Prompt": "What is the integral of 2x dx?",
+    "Answer": "x^2 + C",
+    "Catagory": "Math",
+    "Points": 500
+  },
+  {
+    "Title": "Science - 100",
+    "Prompt": "What is the chemical symbol for gold?",
+    "Answer": "Au",
+    "Catagory": "Science",
+    "Points": 100
+  },
+  {
+    "Title": "Science - 200",
+    "Prompt": "What planet is the largest in our solar system?",
+    "Answer": "Jupiter",
+    "Catagory": "Science",
+    "Points": 200
+  },
+  {
+    "Title": "Science - 300",
+    "Prompt": "What is the powerhouse of the cell?",
+    "Answer": "Mitochondria",
+    "Catagory": "Science",
+    "Points": 300
+  },
+  {
+    "Title": "Science - 400",
+    "Prompt": "What is the speed of light in a vacuum (m/s)?",
+    "Answer": "299,792,458",
+    "Catagory": "Science",
+    "Points": 400
+  },
+  {
+    "Title": "Science - 500",
+    "Prompt": "What is the second law of thermodynamics?",
+    "Answer": "Entropy of an isolated system always increases.",
+    "Catagory": "Science",
+    "Points": 500
+  },
+  {
+    "Title": "History - 100",
+    "Prompt": "Who was the first President of the United States?",
+    "Answer": "George Washington",
+    "Catagory": "History",
+    "Points": 100
+  },
+  {
+    "Title": "History - 200",
+    "Prompt": "In which year did World War II end?",
+    "Answer": "1945",
+    "Catagory": "History",
+    "Points": 200
+  },
+  {
+    "Title": "History - 300",
+    "Prompt": "Who wrote the Declaration of Independence?",
+    "Answer": "Thomas Jefferson",
+    "Catagory": "History",
+    "Points": 300
+  },
+  {
+    "Title": "History - 400",
+    "Prompt": "What empire was ruled by Genghis Khan?",
+    "Answer": "The Mongol Empire",
+    "Catagory": "History",
+    "Points": 400
+  },
+  {
+    "Title": "History - 500",
+    "Prompt": "Which French military leader declared himself Emperor in 1804?",
+    "Answer": "Napoleon Bonaparte",
+    "Catagory": "History",
+    "Points": 500
+  },
+  {
+    "Title": "Literature - 100",
+    "Prompt": "Who wrote 'Romeo and Juliet'?",
+    "Answer": "William Shakespeare",
+    "Catagory": "Literature",
+    "Points": 100
+  },
+  {
+    "Title": "Literature - 200",
+    "Prompt": "Who is the author of '1984'?",
+    "Answer": "George Orwell",
+    "Catagory": "Literature",
+    "Points": 200
+  },
+  {
+    "Title": "Literature - 300",
+    "Prompt": "In what year was 'To Kill a Mockingbird' published?",
+    "Answer": "1960",
+    "Catagory": "Literature",
+    "Points": 300
+  },
+  {
+    "Title": "Literature - 400",
+    "Prompt": "What is the title of J.R.R. Tolkien's famous trilogy?",
+    "Answer": "The Lord of the Rings",
+    "Catagory": "Literature",
+    "Points": 400
+  },
+  {
+    "Title": "Literature - 500",
+    "Prompt": "Who wrote 'Moby Dick'?",
+    "Answer": "Herman Melville",
+    "Catagory": "Literature",
+    "Points": 500
+  },
+  {
+    "Title": "Movies - 100",
+    "Prompt": "What is the highest-grossing movie of all time (as of 2024)?",
+    "Answer": "Avatar",
+    "Catagory": "Movies",
+    "Points": 100
+  },
+  {
+    "Title": "Movies - 200",
+    "Prompt": "Who directed 'Jurassic Park'?",
+    "Answer": "Steven Spielberg",
+    "Catagory": "Movies",
+    "Points": 200
+  },
+  {
+    "Title": "Movies - 300",
+    "Prompt": "What movie features the line 'I'll be back'?",
+    "Answer": "The Terminator",
+    "Catagory": "Movies",
+    "Points": 300
+  },
+  {
+    "Title": "Movies - 400",
+    "Prompt": "Who played the Joker in 'The Dark Knight'?",
+    "Answer": "Heath Ledger",
+    "Catagory": "Movies",
+    "Points": 400
+  },
+  {
+    "Title": "Movies - 500",
+    "Prompt": "What movie won the first Academy Award for Best Picture?",
+    "Answer": "Wings",
+    "Catagory": "Movies",
+    "Points": 500
+  },
+  {
+    "Title": "Geography - 100",
+    "Prompt": "What is the capital of France?",
+    "Answer": "Paris",
+    "Catagory": "Geography",
+    "Points": 100
+  },
+  {
+    "Title": "Geography - 200",
+    "Prompt": "What is the longest river in the world?",
+    "Answer": "The Nile",
+    "Catagory": "Geography",
+    "Points": 200
+  },
+  {
+    "Title": "Geography - 300",
+    "Prompt": "What country has the most natural lakes?",
+    "Answer": "Canada",
+    "Catagory": "Geography",
+    "Points": 300
+  },
+  {
+    "Title": "Geography - 400",
+    "Prompt": "What is the tallest mountain in the world?",
+    "Answer": "Mount Everest",
+    "Catagory": "Geography",
+    "Points": 400
+  },
+  {
+    "Title": "Geography - 500",
+    "Prompt": "What is the smallest country in the world?",
+    "Answer": "Vatican City",
+    "Catagory": "Geography",
+    "Points": 500
+  }
+]
