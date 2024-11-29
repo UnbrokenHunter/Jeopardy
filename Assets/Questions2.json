@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "100",
+    "Prompt": "DHIP",
+    "Answer": "What is Duke Health Integrated Practice?",
+    "Catagory": "IKYK - All Duke Acronyms",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "ECRT",
+    "Answer": "What is Effort Certification and Reporting Technology?",
+    "Catagory": "IKYK - All Duke Acronyms",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "JOLT",
+    "Answer": "What is Joint Operations Leadership Team?",
+    "Catagory": "IKYK - All Duke Acronyms",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "JASC",
+    "Answer": "What is Joint Ambulatory Steering Committee?",
+    "Catagory": "IKYK - All Duke Acronyms",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "OSP",
+    "Answer": "What is Office of Sponsored Programs?",
+    "Catagory": "IKYK - All Duke Acronyms",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "This Surgical Retina MD skied on their home country's Junior Olympic Team.",
+    "Answer": "Who is Lejla Vajzovic?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "This Glaucoma MD had Sharon Freedman as their attending at UNC.",
+    "Answer": "Who is Leon Herndon?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "This OD is the youngest faculty member in the department and enjoys making pottery and painting.",
+    "Answer": "Who is Maddie Dunning?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "This Plastics MD once had a patient gift them a live chicken.",
+    "Answer": "Who is Julie Woodward?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "The Division Chief who lived in Saudi Arabia in middle school.",
+    "Answer": "Who is Diane Whitaker?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "What the Hudson Building was built on.",
+    "Answer": "What is the parking lot of Wadsworth?",
+    "Catagory": "Eye on History 2",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "The type of tree that grew outside the old Chairman's office in Wadsworth.",
+    "Answer": "What is an apple tree?",
+    "Catagory": "Eye on History 2",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "This man, and previous Chairman of the Department, invented vitrectomy surgery.",
+    "Answer": "Who is Robert Machemer?",
+    "Catagory": "Eye on History 2",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "Joining in 1983, this current clinical faculty member has been in the Department the longest.",
+    "Answer": "Who is Ed Buckley?",
+    "Catagory": "Eye on History 2",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "Of the current Duke Eye Center satellite locations, this one is the oldest.",
+    "Answer": "Where is Duke Eye Center of Winston Salem (1999)?",
+    "Catagory": "Eye on History 2",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "This current CEO of Apple received their MBA from Duke's Fuqua School of Business in 1988.",
+    "Answer": "Who is Tim Cook?",
+    "Catagory": "Sports and Leisure",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "The team Duke Men's basketball beat to win its first national championship in 1991.",
+    "Answer": "Who are the Kansas Jayhawks?",
+    "Catagory": "Sports and Leisure",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "He is the basketball player whose Nike shoe exploded in the game against UNC in February 2019.",
+    "Answer": "Who is Zion Williamson?",
+    "Catagory": "Sports and Leisure",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "Melissa Bernstein, class of 1987, co-founded this toy company partially named after herself.",
+    "Answer": "What is Melissa & Doug?",
+    "Catagory": "Sports and Leisure",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "He is the singer/songwriter, class of 2009, who sang about Ibiza.",
+    "Answer": "Who is Mike Posner?",
+    "Catagory": "Sports and Leisure",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "The sport Elizabeth grew up playing competitively.",
+    "Answer": "What is tennis?",
+    "Catagory": "Facts about EH",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "The city and state Elizabeth is from.",
+    "Answer": "Where is Greenville, SC?",
+    "Catagory": "Facts about EH",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "One of the hobbies Elizabeth started during COVID.",
+    "Answer": "What is rock painting or crocheting?",
+    "Catagory": "Facts about EH",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "The significance of Elizabet's license plate - Shelby4.",
+    "Answer": "What is her dog's name and lucky number?",
+    "Catagory": "Facts about EH",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "The animal Elizabeth visited Madagascar to see.",
+    "Answer": "What are Lemurs?",
+    "Catagory": "Facts about EH",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "Six of these types of muscles in the orbit are attached to the eye and move the eye up and down, side to side, and rotate the eye.",
+    "Answer": "What are extraocular muscles?",
+    "Catagory": "Eye Know Anatomy",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "This tiny, very specialized area of the retina is responsible for giving us our detailed, central vision.",
+    "Answer": "What is the macula?",
+    "Catagory": "Eye Know Anatomy",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "This type of photoreceptor perceives black and white and enables night vision.",
+    "Answer": "What are rods?",
+    "Catagory": "Eye Know Anatomy",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "The surface of the eye and the inner surface of the eyelids are covered with this clear membrane.",
+    "Answer": "What is the conjunctiva?",
+    "Catagory": "Eye Know Anatomy",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "The names of the three layers that make up tear film.",
+    "Answer": "What are mucous layer, watery layer, and oil layer?",
+    "Catagory": "Eye Know Anatomy",
+    "Points": 500
+  }
+]

@@ -5,8 +5,6 @@ using UnityEngine;
 public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager Instance;
-    public ScoreManager() { Instance = this; }
-
 
     [SerializeField] private Transform TeamContainer;
 
@@ -14,6 +12,14 @@ public class ScoreManager : MonoBehaviour
 
     private List<Team> Teams = new();
     private List<GameObject> TeamText = new();
+
+    private void Awake()
+    {
+        if (Instance == null)
+            Instance = this;
+        else
+            Destroy(this.gameObject);
+    }
 
     public void AddTeam(Team team)
     {

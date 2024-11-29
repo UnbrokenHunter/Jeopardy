@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -14,13 +13,11 @@ public class BoardGenerator : MonoBehaviour
     [SerializeField] private GameObject m_BoardCatagoryTemplate;
     [SerializeField] private List<BoardCatagory> m_BoardCatagories = new List<BoardCatagory>();
 
-    [Space]
-
-    [SerializeField] private string m_FilePath = "DemoQuestions.json";
-
     private void Awake()
     {
-        m_Questions = QuestionLoader.LoadQuestions(m_FilePath);
+        var data = ReloadScene.Instance.input_data;
+
+        m_Questions = QuestionLoader.LoadQuestions(data, true);
         
         if (m_CatagoryContainer == null)
         {

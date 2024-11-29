@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class QuestionLoader : MonoBehaviour
 {
-    public static QuestionList LoadQuestions(string jsonFilePath, bool printQuestions = false)
+    public static QuestionList LoadQuestionsFromFile(string jsonFilePath, bool printQuestions = false)
     {
         // Load the JSON file
         string filePath = Path.Combine(Application.dataPath, jsonFilePath);
@@ -28,5 +28,18 @@ public class QuestionLoader : MonoBehaviour
         }
 
         return null;
+    }
+
+    public static QuestionList LoadQuestions(string data, bool printQuestions = false)
+    {
+        // Parse the JSON into QuestionList
+        QuestionList questionList = JsonUtility.FromJson<QuestionList>("{\"Questions\":" + data + "}");
+
+        // Log the questions
+        if (printQuestions)
+            foreach (Question question in questionList.Questions)
+                Debug.Log($"Title: {question.Title}, Prompt: {question.Prompt}, Answer: {question.Answer}, Category: {question.Catagory}, Points: {question.Points}");
+
+        return questionList;
     }
 }
