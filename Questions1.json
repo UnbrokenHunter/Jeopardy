@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "100",
+    "Prompt": "In 1924, this man willed $4M to establish Duke University Hospital.",
+    "Answer": "Who is James B. Duke?",
+    "Catagory": "The history of it all",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "Before it was named Duke University, the school was named 4 other names. What was one of those names?",
+    "Answer": "What is Brown's Schoolhouse, Union Institute Academy, Normal College, Trinity College?",
+    "Catagory": "The history of it all",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "Before it moved to Durham, what county did the school originate in?",
+    "Answer": "What is Randolph County?",
+    "Catagory": "The history of it all",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "In 2005, Duke extended its reach to the far side of the globe by partnering with this University to open a hub for research-intensive clinical training.",
+    "Answer": "What is National University of Singapore?",
+    "Catagory": "The history of it all",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "Created in 1931, this is the physician group created to help recruit faculty and allow them to practice privately.",
+    "Answer": "What is the Private Diagnostic Clinic?",
+    "Catagory": "The history of it all",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "It's the training program launched in the Department in 1978.",
+    "Answer": "What is the Ophthalmic Technician Program?",
+    "Catagory": "Eye on History",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "He is the surgeon who performed the first retinal prosthesis system in North Carolina in 2014.",
+    "Answer": "Who is Paul Hahn?",
+    "Catagory": "Eye on History",
+    "Points": 200
+  },
+  {
+    "Title": "400",
+    "Prompt": "The significance of November 8, 1973.",
+    "Answer": "What is the day the Duke Eye Center opened?",
+    "Catagory": "Eye on History",
+    "Points": 400
+  },
+  {
+    "Title": "300",
+    "Prompt": "He is the first Chair of the Department of Ophthalmology.",
+    "Answer": "Who is Joseph A.C. Wadsworth?",
+    "Catagory": "Eye on History",
+    "Points": 300
+  },
+  {
+    "Title": "500",
+    "Prompt": "The painting of Joseph Wadsworth that hangs in Duke Eye Center had this word misspelled.",
+    "Answer": "What is Ophthalmology?",
+    "Catagory": "Eye on History",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "Elizabeth took her husband's last name when they married.",
+    "Answer": "What is Fiction?",
+    "Catagory": "Fact or Fiction?",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "Elizabeth has a tattoo.",
+    "Answer": "What is Fact?",
+    "Catagory": "Fact or Fiction?",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "Elizabeth graduated early from college.",
+    "Answer": "What is Fact?",
+    "Catagory": "Fact or Fiction?",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "Elizabeth likes heights.",
+    "Answer": "What is Fiction?",
+    "Catagory": "Fact or Fiction?",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "Elizabeth's sister is an Emergency Medicine doctor.",
+    "Answer": "What is Fiction?",
+    "Catagory": "Fact or Fiction?",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "Often used when referring to family members or those closest to us to mean that they are someone's favorite person or object.",
+    "Answer": "What is the apple of your eye?",
+    "Catagory": "Eye have an Idiom for you",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "Refers to a viewpoint from which one can see a wide area. This idiom is often used figuratively to mean that someone can see a situation from a wider perspective.",
+    "Answer": "What is bird's eye view?",
+    "Catagory": "Eye have an Idiom for you",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "You are in a position where the public can observe your actions.",
+    "Answer": "What is the public eye?",
+    "Catagory": "Eye have an Idiom for you",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "Someone who has the ability to see important details and notice mistakes.",
+    "Answer": "What is an eagle eye?",
+    "Catagory": "Eye have an Idiom for you",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "It's easy to put on weight if you have this because you desire more food than you can eat.",
+    "Answer": "What is eyes bigger than your stomach?",
+    "Catagory": "Eye have an Idiom for you",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "This Surgical Retina MD worked in a NY deli as their after-school and weekend job in high school.",
+    "Answer": "Who is Yannek Leiderman?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "This faculty member was the last fellow to train under Dr. Cousins.",
+    "Answer": "Who is Oleg Alekseev?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "This Peds MD was a varsity springboard diver at Duke in undergrad.",
+    "Answer": "Who is Grace Prakalapakorn?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "This Surgical Retina MD hopscotched for 72 hours and crocheted 3 miles of yarn in 7th grade attempting to get into the Guinness Book of World Records.",
+    "Answer": "Who is Sharon Fekrat?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "The Glaucoma MD who is a Girl Scout Leader.",
+    "Answer": "Who is Jullia Rosdahl?",
+    "Catagory": "Name that Faculty Member!",
+    "Points": 500
+  },
+  {
+    "Title": "100",
+    "Prompt": "The center of a target.",
+    "Answer": "What is bullseye?",
+    "Catagory": "Eye before E",
+    "Points": 100
+  },
+  {
+    "Title": "200",
+    "Prompt": "To be disobedient.",
+    "Answer": "What is disobeyed?",
+    "Catagory": "Eye before E",
+    "Points": 200
+  },
+  {
+    "Title": "300",
+    "Prompt": "One who sees an occurrence or an object.",
+    "Answer": "What is eyewitness?",
+    "Catagory": "Eye before E",
+    "Points": 300
+  },
+  {
+    "Title": "400",
+    "Prompt": "Something offensive to view.",
+    "Answer": "What is an eyesore?",
+    "Catagory": "Eye before E",
+    "Points": 400
+  },
+  {
+    "Title": "500",
+    "Prompt": "A squinting eye.",
+    "Answer": "What is cockeye?",
+    "Catagory": "Eye before E",
+    "Points": 500
+  }
+]
